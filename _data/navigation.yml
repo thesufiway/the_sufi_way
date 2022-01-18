@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /about
+    description: "Find out more about Raah-e-Ishq"
+  - title: "Events"
+    url: /events
+    description: "Events organized by us"
+  - title: "Scholars"
+    url: /scholars
+    description: "Our esteemed scholars"
+  - title: "Donate"
+    url: /donate
+    description: "Learn how you can contribute to our organization"
