@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   “Raah-e-IshQ …The Sufi Way” is an independent platform for all the seekers of
   knowledge, truth; those who wants to understand the deeper meanings of the Religion
   and implement it as a transformative tool for the soul and mind
-baseurl: "the_sufi_way" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  thesufiway
