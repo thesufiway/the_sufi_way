@@ -3,7 +3,7 @@ title: "Dr. Zishan Misbahi"
 layout: single
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/DrMisbahi.tif
+#   image: /assets/images/DrMisbahi.tif
   teaser: /assets/images/DrMisbahi.png
 sidebar:
   - title: "Education"
@@ -24,7 +24,7 @@ gallery:
 #     alt: "placeholder image 3"
 ---
 
-<!-- ![](/assets/images/DrMisbahi.png) -->
+
 Maulana Zishan Misbahi is an islamic writer, author, multi-lingual translator, teacher
 of Islamic Studies, Islamic speaker. 
 

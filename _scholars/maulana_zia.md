@@ -3,7 +3,7 @@ title: "Ziyaur Rahman Alimi"
 layout: single
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/foo-bar-identity.jpg
+#   image: /assets/images/foo-bar-identity.jpg
   teaser: assets/images/MaulanaZiya_1.png
 sidebar:
   - title: "Education"
