@@ -35,7 +35,7 @@ He holds traditional advanced degrees (Fazilat) in Islamic law and theology from
 Al-Jamiatul Ashrafia, Mubarakpur, U.P. as well as a MA in in Comparative Religions and
 Civilisation & PhD in Islamic Studies from Jamia Millia Islamia, New Delhi.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." type="center" %}
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 ## Published Research
 

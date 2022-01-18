@@ -33,7 +33,7 @@ github_username:  thesufiway
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
