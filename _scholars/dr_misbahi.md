@@ -1,7 +1,7 @@
 ---
 title: "Dr. Zishan Misbahi"
 layout: single
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Dr. Zeeshan Ahmad Misbahi is an Islamic Scholar, an excellent Writer, an author, a teacher, a Public Speaker well versed with multiple languages."
 header:
 #   image: /assets/images/DrMisbahi.tif
   teaser: /assets/images/DrMisbahi.png

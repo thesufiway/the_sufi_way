@@ -1,7 +1,7 @@
 ---
 title: "Ziyaur Rahman Alimi"
 layout: single
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Allama Ziyaur Rahman Alimi is an Islamic Scholar, an author, a teacher, an Orator well versed with multiple languages."
 header:
 #   image: /assets/images/foo-bar-identity.jpg
   teaser: assets/images/MaulanaZiya_1.png
