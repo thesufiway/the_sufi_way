@@ -60,7 +60,7 @@ plugins:
 #   - vendor/ruby/
 
 minimal_mistakes_skin: "aqua"
-logo: "assets/images/header.png"
+logo: "assets/images/logo.jpeg"
 masthead_title: Raah-e-Ishq
 
 # Outputting

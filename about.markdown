@@ -6,11 +6,22 @@ permalink: /about/
 
 ## Who are we?
 
-“Raah-e-IshQ …The Sufi Way” is an independent platform for all the seekers of knowledge, truth; those who wants to understand the deeper meanings of the Religion and implement it as a transformative tool for the soul and mind (not just limiting Religion to the ritualistic form). The practice of the Religion with its essence and meaning would help individuals attain higher spiritual states, bring closer to The Creator and its creation.
+“**Raah-e-IshQ…The Sufi Way**” is an independent platform for all the seekers of
+knowledge
+& truth; those who want to understand the deeper meanings of the Deen and implement it
+as a transformative tool for the soul and mind (and not just limiting Religion to the
+ritualistic practices). The Religion with its essence and meaning would help
+individuals achieve higher mystical states; and bring closer to Allah - The Creator.
 
-The concept of travelling to learn the Religion has very much been the part of the Islamic tradition. Renowned Universities across the Globe has been effectively carrying out such programs for students & Professionals.
+The concept of ‘*travelling to learn*’ has very much been the part of the Islamic
+tradition and can be traced throughout the History of the religion. It has been
+practiced and promoted within the classical Islam. Present day renowned Universities
+across the Globe has been effectively carrying out such programs for students &
+Professionals.
 
-“Raah-e-IshQ …The Sufi Way” primarily caters to the Urdu/Hindi speaking audience in the Indian sub-continent and draws inspiration from institutions like Cambridge Muslim College (U.K) and Zaytuna College (U.S).
+“*Raah-e-IshQ…The Sufi Way*” primarily caters to the Urdu/Hindi speaking audience,
+especially in the Indian sub-continent and draws inspiration from Islamic institutions
+across the world.
 
 ## Our Aim
 

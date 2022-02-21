@@ -9,7 +9,7 @@ sidebar:
   - title: "Education"
     image: /assets/images/DrMisbahi.tif
     image_alt: "logo"
-    text: "PhD in Islamic Studies, Jamia Milia Islamia"
+    text: "Fazil, MA., Ph.D"
   - title: "Work"
     text: "Islamic Scholar, Teacher, Translator, Speaker"
 gallery:
@@ -25,17 +25,17 @@ gallery:
 ---
 
 
-Maulana Zishan Misbahi is an islamic writer, author, multi-lingual translator, teacher
-of Islamic Studies, Islamic speaker. 
+Dr. Zeeshan Ahmad Misbahi is an Islamic Scholar, an excellent Writer, an author, a
+teacher, a Public Speaker well versed with multiple languages. Currently he teaches in
+Jamia Arifia and associated with Shah Safi Academy, Syed Sarawan (UP) as an Islamic
+scholar & Writer.
 
-Currently he is serving as teacher of Jamia Arifia and working as a Research scholar of
-Shah Safi Academy, Khnaqah e Arifia, Syed Sarawan, UP.
+## Education
+- Fazilat in Al-Jamiatul Ashrafia, Mubarakpur (UP)
+- MA (Comparative Religions and Civilization), Jamia Millia Islamia, New Delhi
+- PhD (Islamic Studies), Jamia Millia Islamia, New Delhi
 
-He holds traditional advanced degrees (Fazilat) in Islamic law and theology from
-Al-Jamiatul Ashrafia, Mubarakpur, U.P. as well as a MA in in Comparative Religions and
-Civilisation & PhD in Islamic Studies from Jamia Millia Islamia, New Delhi.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Dr. Zeeshan Ahmad Misbahi" %}
 
 ## Published Research
 

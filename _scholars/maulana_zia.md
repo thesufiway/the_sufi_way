@@ -9,7 +9,7 @@ sidebar:
   - title: "Education"
     image: /assets/images/DrMisbahi.tif
     image_alt: "logo"
-    text: "M.A (Arabic), Aligharh Muslim University <br /> M.Phil (Arabic) Jawaharlal Nehru University"
+    text: "Fazil, MA. M. Phil"
   - title: "Work"
     text: "Islamic Scholar, Teacher, Translator, Speaker"
 gallery:
@@ -24,15 +24,16 @@ gallery:
 #     alt: "placeholder image 3"
 ---
 
-Ziyaur Rahman Alimi is an islamic writer, author, multi-lingual translator, teacher of Islamic Studies, Islamic speaker.
+Allama Ziyaur Rahman Alimi is an Islamic Scholar, an author, a teacher, an Orator well
+versed with multiple languages.Currently he teaches in Jamia Arifia and associated with
+Shah Safi Academy, Syed Sarawan (UP) as an Islamic scholar & Writer.
 
-Currently he is serving as teacher of Jamia Arifia and working as scholar of Shah Safi Academy, Khnaqah e Arifia, Syed Sarawan, UP. 
+## Education
+- Fazilat in Islamic law and theology Darul Uloom Alimia
+- MA (Arabic),  Aligarh Muslim University, Aligarh 
+- M.Phil (Arabic), Jawaharlal Nehru University, New Delhi
 
-He holds traditional advanced degrees (Fazilat) in Islamic law and theology from Darul Uloom Alimia, Basti, U.P. 
-MA in Arabic from Aligarh Muslim University, Aligarh 
-M.Phil in Arabic from Jawaharlal Nehru University, New Delhi.us Nieman.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Ziyaur Rahman Alimi" %}
 
 ## Scholarly and Research Work
 

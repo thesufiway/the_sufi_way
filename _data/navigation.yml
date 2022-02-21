@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /index
   - title: "About"
     url: /about
     description: "Find out more about Raah-e-Ishq"
