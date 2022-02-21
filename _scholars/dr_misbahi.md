@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: "Education"
     image: /assets/images/DrMisbahi.tif
-    image_alt: "logo"
+    # image_alt: "logo"
     text: "Fazil, MA., Ph.D"
   - title: "Work"
     text: "Islamic Scholar, Teacher, Translator, Speaker"
